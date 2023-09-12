@@ -8,4 +8,5 @@ https://vctupu-nick-arrivo.shinyapps.io/Shiny-Player-Lookup-Nick-Arrivo/_w_6b601
 
 
 This is the main page, with a player select feature, important stats and metrics, and a dynamic graph to compare college players from the 2023 season. 
-![Screenshot 2023-09-12 at 2 40 30 PM](https://github.com/NickArrivo-code/Shiny-college-hitter-advanced-scouting/assets/137729712/0b1f7a53-8466-498a-afd5-439395972b8c)
+
+![Screenshot 2023-09-12 at 2 40 49 PM](https://github.com/NickArrivo-code/Shiny-college-hitter-advanced-scouting/assets/137729712/b7576e36-907c-48d0-8075-3d6b14d34220)
